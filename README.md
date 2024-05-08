@@ -28,7 +28,7 @@
 <tr><td>ASIGNATURA:</td><td colspan="5">PROGRAMACION WEB II -----------------------------------------------------------------</td></tr>
 <tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Laboratorio 02</td></tr>
 <tr>
-<td>NÚMERO DE PRÁCTICA:</td><td>02</td><td>AÑO LECTIVO:</td><td>2024 - A</td><td>NRO. SEMESTRE:</td><td>III</td>
+<td>NÚMERO DE PRÁCTICA:</td><td>2</td><td>AÑO LECTIVO:</td><td>2024 - A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 </<tr>
 <tr><td colspan="6">DOCENTE:
