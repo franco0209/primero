@@ -23,7 +23,7 @@ class grupo3 {
 		System.out.println(c1.mul(10,10));
 		System.out.println(c1.div(2024,2004));
 
-        //Prueba del otro metodo:
-        System.out.println(c1.mod(2024,2004));
+		//Prueba del otro metodo:
+		System.out.println(c1.mod(2024,2004));
 	}
 }
