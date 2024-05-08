@@ -42,6 +42,7 @@
 <li>Roni Companocca Checco</li>
 <li>Sebastian Alfredo Riveros Valeriano</li>
 <li>Cahua Soto Franco Jesus</li>
+<li>Rodrigo Ferdinand Quispe Huaman</li>
 </ul>
 </td>
 </<tr>
